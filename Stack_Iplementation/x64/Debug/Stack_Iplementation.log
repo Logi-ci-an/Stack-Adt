@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Stack_List.cpp
+  Generating Code...
+C:\Users\Ahmed kamal\Github\Stack-Adt\Stack_Iplementation\Stack_Iplementation\Stack_List.h(58): warning C4715: 'Stack_List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Pop': not all control paths return a value
+  Stack_Iplementation.vcxproj -> C:\Users\Ahmed kamal\Github\Stack-Adt\Stack_Iplementation\x64\Debug\Stack_Iplementation.exe
